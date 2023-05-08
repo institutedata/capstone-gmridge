@@ -12,7 +12,7 @@ Create a backend that does something useful with a chosen 3rd party API(s) and i
 
 ## Design Steps:
 
-1. Choose a API to work with from the list of free APIs - https://docs.google.com/spreadsheets/d/15iDpjqyBkSse9wcN7vvQvORBvX8P_ivAjm-iKXp776Y/edit#gid=0
+1. Choose a API to work with from the list of [FREE APIs](https://docs.google.com/spreadsheets/d/15iDpjqyBkSse9wcN7vvQvORBvX8P_ivAjm-iKXp776Y/edit#gid=0)
 2. Decide on what you want to improve / add
 3. Write down your objectives in a text doc
 
