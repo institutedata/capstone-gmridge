@@ -1,18 +1,18 @@
 </br>
 
-## **MINI-PROJECT 3**
+# **MINI-PROJECT 3**
 
 </br>
 
-# Objective - Create a backend that does something useful with a chosen 3rd party API(s) and includes a database
+## Objective - Create a backend that does something useful with a chosen 3rd party API(s) and includes a database
 
-# Design Steps:
+## Design Steps:
 
 1. Choose a API to work with from the list of free APIs - https://docs.google.com/spreadsheets/d/15iDpjqyBkSse9wcN7vvQvORBvX8P_ivAjm-iKXp776Y/edit#gid=0
 2. Decide on what you want to improve / add
 3. Write down your objectives in a text doc
 
-# Build steps:
+## Build steps:
 
 1. Follow the link to the Github Classroom repo and clone it to your local PC
 (Inside the repo)
