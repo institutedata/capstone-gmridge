@@ -4,7 +4,9 @@
 
 </br>
 
-## Objective - Create a backend that does something useful with a chosen 3rd party API(s) and includes a database
+Objective - Create a backend that does something useful with a chosen 3rd party API(s) and includes a database
+
+<br>
 
 ## Design Steps:
 
@@ -25,79 +27,43 @@
 
 8. Present your backend project to the class (Aim for a 5min presentation. The presentation date is the 22nd May)
 
+<br><br>
 
-
-
+Ideas to talk about in the presentation
 
 ## ▪ What was your requirements gathering and design process? Was it useful/successful?
 
-```
-*your answer here
-```
 </br>
 
 ## ▪ Give a high level overview of your application and its features.
-
-```
-*your answer here
-```
 
 </br>
 
 ## ▪ Where does its data come from (external/internal APIs)?
 
-```
-*your answer here
-```
 </br>
 
 ## ▪ How does the back end process this data?
 
-```
-*your answer here
-```
 </br>
 
 ## ▪ How can the user interact with this data?
-```
-*your answer here
-```
+
 </br>
 
 ## ▪ What JS techniques have you used ?
 *(eg. objects/arrays/DOMfunctions/loops/functions/ifs)*
-```
-*your answer here
-```
+
 </br>
 
 ## ▪ What external tools/libraries have you used? How? Why?
 *(eg. bootstrap/axios/charts)*
-```
-*your answer here
-```
-</br>
-
-## ▪ What kinds of HTML elements have you used
-(eg. tables, forms, divs, lists, headings, menus, videos, images)?
-```
-*your answer here
-```
-</br>
-
-## ▪ What kinds of CSS features have you used ?
-*(eg. animations, backgrounds, fonts, colours, flexbox, grid)*
-```
-*your answer here
-```
 
 </br>
+
 
 ## ▪ How might you extend the features of your application in future?
 
-```
-*your answer here
-```
 
 
 </br></br></br></br></br>
