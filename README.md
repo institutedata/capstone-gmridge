@@ -27,42 +27,42 @@ Objective - Create a backend that does something useful with a chosen 3rd party 
 
 8. Present your backend project to the class (Aim for a 5min presentation. The presentation date is the 22nd May)
 
-<br><br>
+<br><br><br><br>
 
-Ideas to talk about in the presentation
+## Ideas to talk about in the presentation
 
-## ▪ What was your requirements gathering and design process? Was it useful/successful?
-
-</br>
-
-## ▪ Give a high level overview of your application and its features.
+▪ What was your requirements gathering and design process? Was it useful/successful?
 
 </br>
 
-## ▪ Where does its data come from (external/internal APIs)?
+▪ Give a high level overview of your application and its features.
 
 </br>
 
-## ▪ How does the back end process this data?
+▪ Where does its data come from (external/internal APIs)?
 
 </br>
 
-## ▪ How can the user interact with this data?
+▪ How does the back end process this data?
 
 </br>
 
-## ▪ What JS techniques have you used ?
+▪ How can the user interact with this data?
+
+</br>
+
+▪ What JS techniques have you used ?
 *(eg. objects/arrays/DOMfunctions/loops/functions/ifs)*
 
 </br>
 
-## ▪ What external tools/libraries have you used? How? Why?
+▪ What external tools/libraries have you used? How? Why?
 *(eg. bootstrap/axios/charts)*
 
 </br>
 
 
-## ▪ How might you extend the features of your application in future?
+▪ How might you extend the features of your application in future?
 
 
 
