@@ -1,10 +1,10 @@
-</br>
 
 # **MINI-PROJECT 3**
 
 </br>
 
-Objective - Create a backend that does something useful with a chosen 3rd party API(s) and includes a database
+## Objective  
+Create a backend that does something useful with a chosen 3rd party API(s) and includes a database
 
 <br>
 
