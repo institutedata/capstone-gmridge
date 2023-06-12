@@ -34,21 +34,21 @@
 Follow the link to the Github Classroom repo and clone it to your local computer
 (Inside the repo)
 
-3.1. `npx create-next-app@latest`
-3.2.  When asked..
-       - to provide a name for your mini project: **Yes**, *(e.g. mini-project-2)*
-       - Would you like to use TypeScript with this project ? **Yes**, **HIGHLY ENCOURAGED, not required*
-       - Would you like to use ESLint with this project? **Yes**
-       - Would you like to use Tailwind CSS with this project? **Optional*
-       - Would you like to use `src/` directory with this project? **No**
-       - Use App Router ? **Yes** **RECOMMENDED*
-       - Would you like to customize the default import alias? **No**
+       1. `npx create-next-app@latest`
+       2.  When asked..
+              - to provide a name for your mini project: **Yes**, *(e.g. mini-project-2)*
+              - Would you like to use TypeScript with this project ? **Yes**, **HIGHLY ENCOURAGED, not required*
+              - Would you like to use ESLint with this project? **Yes**
+              - Would you like to use Tailwind CSS with this project? **Optional*
+              - Would you like to use `src/` directory with this project? **No**
+              - Use App Router ? **Yes** **RECOMMENDED*
+              - Would you like to customize the default import alias? **No**
 
-3.3. `cd mini-project-2` <sup><sub>(or whatever you named your project)</sub></sup>
-3.4. `npm install`
-3.5. `npm run dev`
+       3. `cd mini-project-2` <sup><sub>(or whatever you named your project)</sub></sup>
+       4. `npm install`
+       5. `npm run dev`
 
-4. Present your backend project to the class (Aim for a 5min presentation). The presentation date is in the 26th of JULY, 2023.
+5. Present your backend project to the class (Aim for a 5min presentation). The presentation date is in the 26th of JULY, 2023.
 
 <br>
 
