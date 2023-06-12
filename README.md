@@ -24,8 +24,8 @@
 1. Decide on what you work on
 2. Write down your objectives in [HERE](https://gist.github.com/ballyalley-o/a10bee2762e97b1ee817d1ac03ead86e#ideas-to-talk-about-in-the-presentation)
 
-- Optional:  Draw a wireframe of your app
-- Optional: List of [FREE APIs](https://docs.google.com/spreadsheets/d/15iDpjqyBkSse9wcN7vvQvORBvX8P_ivAjm-iKXp776Y/edit#gid=0)
+- Optional: Draw a wireframe of your app
+- Optional: List of [FREE APIs](https://docs.google.com/spreadsheets/d/15iDpjqyBkSse9wcN7vvQvORBvX8P_ivAjm-iKXp776Y/edit#gid=0) to integrate.
 
 <br>
 
@@ -48,7 +48,7 @@
 4. `npm install`
 5. `npm run dev`
 
-6. Present your backend project to the class (Aim for a 5min presentation. The presentation date is the [DUE DATE](https)
+6. Present your backend project to the class (Aim for a 5min presentation). The presentation date is in the 26th of JULY, 2023.
 
 <br>
 
