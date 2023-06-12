@@ -22,20 +22,20 @@
 ## Design Steps:
 
 1. Decide on what you work on
-2. Write down your objectives in [HERE](https://gist.github.com/ballyalley-o/a10bee2762e97b1ee817d1ac03ead86e#ideas-to-talk-about-in-the-presentation)
+2. Write down your objectives in the file *objectives.md* , in the root directory of this repository.
 
 - Optional: Draw a wireframe of your app
 - Optional: List of [FREE APIs](https://docs.google.com/spreadsheets/d/15iDpjqyBkSse9wcN7vvQvORBvX8P_ivAjm-iKXp776Y/edit#gid=0) to integrate.
 
 <br>
 
-## Build steps:
+3. ## Build steps:
 
-1. Follow the link to the Github Classroom repo and clone it to your local computer
+Follow the link to the Github Classroom repo and clone it to your local computer
 (Inside the repo)
 
-1. `npx create-next-app@latest`
-2.  When asked..
+3.1. `npx create-next-app@latest`
+3.2.  When asked..
        - to provide a name for your mini project: **Yes**, *(e.g. mini-project-2)*
        - Would you like to use TypeScript with this project ? **Yes**, **HIGHLY ENCOURAGED, not required*
        - Would you like to use ESLint with this project? **Yes**
@@ -44,11 +44,11 @@
        - Use App Router ? **Yes** **RECOMMENDED*
        - Would you like to customize the default import alias? **No**
 
-3. `cd mini-project-2` <sup><sub>(or whatever you named your project)</sub></sup>
-4. `npm install`
-5. `npm run dev`
+3.3. `cd mini-project-2` <sup><sub>(or whatever you named your project)</sub></sup>
+3.4. `npm install`
+3.5. `npm run dev`
 
-6. Present your backend project to the class (Aim for a 5min presentation). The presentation date is in the 26th of JULY, 2023.
+4. Present your backend project to the class (Aim for a 5min presentation). The presentation date is in the 26th of JULY, 2023.
 
 <br>
 
