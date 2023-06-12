@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11326299&assignment_repo_type=AssignmentRepo)
 </br></br></br>
 ![iod logo](https://x4w8f4y8.rocketcdn.me/wp-content/uploads/2020/05/iod_h_tp_white_c.png)
 </br></br></br>
@@ -76,15 +77,21 @@ Follow the link to the Github Classroom repo and clone it to your local computer
 
 </br>
 
-▪ How can the user interact with this data?
+▪ How can the user interact with this app?
  ```md
    answer here
  ```
 
 </br>
 
-▪ What JS techniques have you used ?
-*(eg. objects/arrays/DOMfunctions/loops/functions/ifs)*
+▪ Which specific methods from the React library have you utilized in your projects, and what are your experiences or insights regarding their usage and effectiveness?
+ ```md
+   answer here
+```
+
+</br>
+
+▪ If you used Next.JS, could you please share your thoughts on the routing capabilities it offers? How does the routing functionality in Next.js compare to other frameworks or libraries you have worked with in terms of ease of use, flexibility, and any notable features?
  ```md
    answer here
 ```
@@ -118,7 +125,7 @@ Follow the link to the Github Classroom repo and clone it to your local computer
  ```
 
 
-▪ *If you used Typescript, what do you think its?
+▪ *If you used Typescript, how does TypeScript compare to JavaScript in terms of their features, benefits, and differences?
 
 
  ```md
