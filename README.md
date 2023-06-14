@@ -49,7 +49,7 @@ Follow the link to the Github Classroom repo and clone it to your local computer
        4. `npm install`
        5. `npm run dev`
 
-5. Present your backend project to the class (Aim for a 5min presentation). The presentation date is in the 3rd of JULY, 2023.
+5. Present your project to the class (Aim for a 5min presentation). The presentation date is in the 3rd of JULY, 2023.
 
 <br>
 
