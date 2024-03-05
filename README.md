@@ -31,7 +31,7 @@ Create an **interactive** page/s of their choice using React. Ideally the app wi
 
 <br>
 
-3. ## Build steps:
+## Build steps:
 
 Follow the link to the Github Classroom repo and clone it to your local computer
 (Inside the repo)
