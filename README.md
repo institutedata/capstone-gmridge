@@ -36,7 +36,7 @@ Create an **interactive** page/s of their choice using React. Ideally the app wi
 Follow the link to the Github Classroom repo and clone it to your local computer
 (Inside the repo)
 
-       1. `npx create-next-app@latest`
+       1. `npx create-next-app@latest` 
        2.  When asked..
               - to provide a name for your mini project: **Yes**, *(e.g. mini-project-2)*
               - Would you like to use TypeScript with this project ? **Yes**, **HIGHLY ENCOURAGED, not required*
@@ -45,7 +45,7 @@ Follow the link to the Github Classroom repo and clone it to your local computer
               - Would you like to use `src/` directory with this project? **No**
               - Use App Router ? **Yes** **RECOMMENDED*
               - Would you like to customize the default import alias? **No**
-
+       
        3. `cd mini-project-2` <sup><sub>(or whatever you named your project)</sub></sup>
        4. `npm install`
        5. `npm run dev`
