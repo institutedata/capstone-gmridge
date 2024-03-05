@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11326299&assignment_repo_type=AssignmentRepo)
 </br></br></br>
 ![iod logo](https://x4w8f4y8.rocketcdn.me/wp-content/uploads/2020/05/iod_h_tp_white_c.png)
 </br></br></br>
@@ -7,16 +6,18 @@
 
 <div align="center">
 
-# *REACT*
+# REACT
 
 </div>
 
 </br>
 
-> # Objective
+## Objective
 
 
 ### *Create a dynamic and interactive frontend Application that uses the core principles of React.*
+
+Create an **interactive** page/s of their choice using React. Ideally the app will include interactive elements such as forms, links and buttons, along with routes, data fetching and various React hooks as needed, as well as external libraries such as [bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction), [tailwind](https://tailwindcss.com/docs/guides/create-react-app) and [MUI](https://react-bootstrap.netlify.app/docs/getting-started/introduction). 
 
 <br>
 
@@ -69,7 +70,7 @@ Follow the link to the Github Classroom repo and clone it to your local computer
 
 </br>
 
-▪ Give a high level overview of your application and its features.
+▪ What kinds of React hooks have you used (eg. state, context, effect, navigate)? How?
  ```md
    answer here
  ```
@@ -77,7 +78,14 @@ Follow the link to the Github Classroom repo and clone it to your local computer
 
 </br>
 
-▪ How can the user interact with this app?
+▪ How can the user interact with your application?
+ ```md
+   answer here
+ ```
+
+</br>
+
+▪ Have you created and used any custom hooks?
  ```md
    answer here
  ```
