@@ -45,9 +45,11 @@ const deleteComment = (req, res) => {
     })
 }
 
-module.exports = {
+
+const commentController =  {
   getComment,
   createComment,
   updateComment,
   deleteComment
 };
+module.exports = commentController

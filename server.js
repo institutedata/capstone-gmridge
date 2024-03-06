@@ -1,34 +1,41 @@
 const express = require("express");
-const app = express();
+const goodlog = require("good-logs");
+const connectDb = require("./dbConnect");
+const { journeyController } = require("./controllers");
+const { journeyRoute, commentRoute, categoryRoute } = require('./routes')
 require("dotenv").config();
-const { MongoClient } = require('mongodb');
 
-// MongoDB
-const uri = process.env.MONGODB_URI;
-const client = new MongoClient(uri);
+const app = express();
 
-client.connect(async (err) => {
-  if (err) {
-    console.error('An error occurred connecting to MongoDB: ', err);
-    process.exit(1);
-  }
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-  console.log('Connected to MongoDB');
+// Use your route handlers
+app.use('/api/journeys', journeyRoute);
+app.use('/api/comments', commentRoute);
+app.use('/api/category', categoryRoute);
 
-  app.use(express.json());
-
-  // routes
-  const { journeyController } = require("./controllers");
-  let journeyRoutes = require('./routes/journeyRoutes')(client.db(), journeyController);
-
-  // Use your route handlers
-  app.use('/api/journeys', journeyRoutes);
-  app.use('/api/comments', commentRoutes);
-  app.use('/api/category', categoryRoutes);
-
-  // set port
-  const PORT = process.env.PORT || 27017;
-  app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}.`);
-  });
+// set port
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  goodlog.custom('bgCyan',`Server is running on port ${PORT}.`);
+  // console.log(`Server is running on port ${PORT}.`);
 });
+
+
+
+
+
+// const { MongoClient } = require('mongodb');
+
+// // MongoDB
+// const uri = process.env.MONGODB_URI;
+// const client = new MongoClient(uri);
+
+// client.connect(async (err) => {
+//   if (err) {
+//     console.error('An error occurred connecting to MongoDB: ', err);
+//     process.exit(1);
+//   }
+//   console.log('Connected to MongoDB');
+// });

@@ -1,6 +1,6 @@
 'use strict'
 module.exports = {
-   Journey: require('./models'),
-   Comment: require('./models'),
-   Category: require('./models')
+   Journey: require('./Journey.js'),
+   Comment: require('./Comment.js'),
+   Category: require('./Category.js')
 };
