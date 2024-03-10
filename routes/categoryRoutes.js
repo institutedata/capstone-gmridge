@@ -2,23 +2,16 @@ let express = require("express");
 let router = express.Router();
 let { categoryController} = require("../controllers"); // index.js
 
-router.get('/', (req, res) => {
-   categoryController.getcategory(res);
-})
+/**
+ * @path {baseUrl}/api/comments
+ 
+ */
 
-router.post('/create', (req, res) => {
-   categoryController.createcategory(req.body, res);
-})
-module.exports = router;
-
-router.put('/:id', (req, res) => {
-    categoryController.updatecategory(req, res)
-})
-
-router.delete('/:id', (req, res) => {
-    categoryController.deletecategory(req, res)
-})
-
+router.get('/',  categoryController.getCategory);
+router.get('/:id', categoryController.getCategory);
+router.post('/create', categoryController.createCategory);
+router.put('/:id', categoryController.updateCategory);
+router.delete('/:id', categoryController.deleteCategory);
 
 const categoryRoute = router
 module.exports = categoryRoute

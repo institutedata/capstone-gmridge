@@ -65,7 +65,7 @@ By following these steps, you'll create a well-structured, fully functional back
 ▪ What was your requirements gathering and design process? Was it useful/successful?
 
 ```
-*your answer here
+I wanted create something useful and easy to use. I researched google maps APIs (thankfully free) and knew that it would make my app streamlined.
 ```
 
 </br>
@@ -73,7 +73,15 @@ By following these steps, you'll create a well-structured, fully functional back
 ▪ Give a high level overview of your backend application and its features.
 
 ```
-*your answer here
+Mileage Tracking: Users can record and save their journeys to keep track of mileage, which is useful for tax purposes or business expense reimbursements.
+
+Integration with Google Maps API: Leveraging the Google Maps API, your application can accurately calculate distances and routes for recorded journeys. This ensures precise mileage tracking.
+
+Categorization of Journeys: Users have the ability to categorize their journeys, which helps in organizing and analyzing mileage data. This categorization feature enhances user experience and makes it easier to manage data.
+
+CRUD Operations: The application supports all basic CRUD (Create, Read, Update, Delete) operations, allowing users to manage their journey records efficiently. They can create new records, view existing ones, update details if needed, and delete records that are no longer relevant.
+
+Overall, my backend application provides a robust platform for users to effectively manage and track their mileage, with seamless integration with MongoDB and the Google Maps API, along with essential CRUD functionality and categorization features.
 ```
 
 </br>
@@ -81,42 +89,45 @@ By following these steps, you'll create a well-structured, fully functional back
 ▪ Where does its data come from (external/internal APIs)?
 
 ```
-*your answer here
+Google Maps API
 ```
 
 </br>
 
 ▪ How does the back end process this data?
 ```
-*your answer here
+Docker and MongoDB
 ```
 
 </br>
 
 ▪ How can the user interact with this data?
 ```
-*your answer here
+Create, Read, Update, Delete, Categorize. 
 ```
 </br>
 
 ▪ What TS/JS techniques have you used ?
 *(eg. objects/arrays/DOMfunctions/loops/functions/ifs)*
 ```
-*your answer here
+JS was used without.
+functions/handlers/thencatch/MVC/Mongoose/Nodejs/
 ```
 </br>
 
 ▪ What external tools/libraries have you used? How? Why?
 ```
-*your answer here
+MongoDB, Docker, GoogleMapsAPI
 ```
 </br>
 
 
 ▪ How might you extend the features of your application in future?
 ```
-*your answer here
+React interface to come.
 ```
+
+LINK TO DOCUMENTATION: https://documenter.getpostman.com/view/33418069/2sA2xe5Erz
 
 
 </br></br></br></br></br>

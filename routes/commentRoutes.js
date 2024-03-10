@@ -2,22 +2,16 @@ let express = require("express");
 let router = express.Router();
 let { commentController } = require("../controllers"); // index.js
 
-router.get('/', (req, res) => {
-   commentController.getComment(res);
-})
+/**
+ * @path {baseUrl}/api/comments
+ 
+ */
 
-router.post('/create', (req, res) => {
-   commentController.createComment(req.body, res);
-})
+router.get('/',  commentController.getComment);
+router.get('/:id', commentController.getComment);
+router.post('/create', commentController.createComment);
+router.put('/:id', commentController.updateComment);
+router.delete('/:id', commentController.deleteComment);
 
-router.put('/:id', (req, res) => {
-    commentController.updateComment(req, res)
-})
-
-router.delete('/:id', (req, res) => {
-    commentController.deleteComment(req, res)
-})
-
-
-const  commentRoute = router
+const commentRoute = router
 module.exports = commentRoute
