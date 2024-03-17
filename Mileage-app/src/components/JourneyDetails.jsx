@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
-import CommentList from "./CommentList";
+import CommentList from "./Comments";
 
 export default function JourneyDetails() {
   const { id } = useParams();

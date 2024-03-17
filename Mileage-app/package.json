@@ -2,6 +2,7 @@
   "name": "mileage-app",
   "version": "1.0.0",
   "dependencies": {
+    "@mui/material": "^5.15.13",
     "@types/axios": "^0.14.0",
     "@types/react-router-dom": "^5.3.3",
     "mongodb": "^4.3.3",

@@ -21,3 +21,6 @@ export default function JourneyForm() {
   return (
     <div>
       <h1>Add New Journey</h1>
+      </div>
+  )
+}

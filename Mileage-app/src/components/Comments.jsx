@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+import PropTypes from 'prop-types';
+
 export default function CommentList({ comments }) {
   return (
     <div>
@@ -14,4 +16,8 @@ export default function CommentList({ comments }) {
     </div>
   );
 }
+
+CommentList.propTypes = {
+  comments: PropTypes.array.isRequired,
+};
 
