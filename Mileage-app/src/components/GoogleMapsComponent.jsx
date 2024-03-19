@@ -42,3 +42,4 @@ const GoogleMapsComponent = () => {
     );
 }
 
+export default GoogleMapsComponent;
