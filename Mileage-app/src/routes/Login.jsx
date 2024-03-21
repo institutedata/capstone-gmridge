@@ -1,13 +1,14 @@
+import React from 'react';
 import Navbar from "../components/Navbar";
+import LoginCreateUser from "../components/LoginCreateUser";
 
-function Login () {
+function Login() {
     return (
-       <>
-    <h1>This is Login</h1>
-    <Navbar/>
-       
-       </>
+        <>
+            <Navbar />
+            <LoginCreateUser />
+        </>
     )
-   }
-   
-   export default Login;
+}
+
+export default Login;

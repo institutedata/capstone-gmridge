@@ -1,16 +1,14 @@
-import { Link } from "react-router-dom";
-import { Box } from '@mui/system';
+import React from 'react';
+import RoutesConfig from './RoutesConfig'; 
+import Navbar from './Navbar';
 
-export default function JourneyList() {
+function App() {
   return (
     <div>
-      <h1>Journey List</h1>
-      <ul>
-        {/* Render journey list items here */}
-        <li>
-          <Link to="/journey/1">Journey 1</Link>
-        </li>
-      </ul>
+      <Navbar/>
+      <RoutesConfig /> {/* Render the RoutesConfig component */}
     </div>
   );
 }
+
+export default App;

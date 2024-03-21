@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './pages/Home';
 import JourneyList from './pages/JourneyList';
 import JourneyForm from './pages/JourneyForm';
@@ -6,12 +6,14 @@ import JourneyDetails from './pages/JourneyDetails';
 
 function RoutesConfig() {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/journeys" element={<JourneyList />} />
-      <Route path="/journeys/new" element={<JourneyForm />} />
-      <Route path="/journeys/:id" element={<JourneyDetails />} />
-    </Routes>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/journeyList" element={<JourneyList />} />
+        <Route path="/journeyForm" element={<JourneyForm />} />
+        <Route path="/journeyDetails" element={<JourneyDetails />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

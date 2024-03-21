@@ -5,6 +5,7 @@ import About from "./routes/About";
 import Milage from "./routes/Mileage";
 import Contact from "./routes/Contact";
 import Login from "./routes/Login";
+import CreateAccount from "./routes/CreateUser";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="/mileage" element={<Milage/>}/>
           <Route path="/contact" element={<Contact/>}/>
           <Route path="/login" element={<Login/>}/>
+          <Route path="/create-account" element={<CreateAccount/>}/>
         </Routes>
 
       </div>
