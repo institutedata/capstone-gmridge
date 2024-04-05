@@ -1,0 +1,20 @@
+.contact-container {
+  max-width: 800px; /* Adjust the max-width as needed */
+  margin: 0 auto; /* Center the container */
+  padding: 20px;
+}
+
+/* Media query for desktop screens */
+@media (min-width: 768px) {
+  .contact-container {
+    max-width: 1000px; /* Adjust the max-width for desktop screens */
+  }
+
+  .contact-container input[type="email"],
+  .contact-container textarea {
+    width: calc(100% - 20px); 
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+}
