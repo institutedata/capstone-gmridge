@@ -23,8 +23,8 @@ function App() {
           <Route path="/create-account" element={<CreateAccount/>}/>
           <Route path="/journey/list" element={<JourneyList />}/>
           <Route path="/journey/form" element={<JourneyForm />} />
-          <Route path="/journey/details" element={<JourneyDetails />} />
-        </Routes>
+          <Route path="/journey/export" element={<JourneyDetails />} />
+        </Routes><br/><br/><br/>
 
       </div>
     );
