@@ -1,1 +1,0 @@
-export { GoogleMapsComponentPage } from './googlemaps';
