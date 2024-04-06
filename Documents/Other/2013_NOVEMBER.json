@@ -1,0 +1,90 @@
+[
+  {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -368994482,
+        "longitudeE7": 1746260446,
+        "placeId": "ChIJV0ad2-pBDW0RNiIkhfUi8VI",
+        "address": "15 Chislehurst St, Henderson, Auckland 0612, New Zealand",
+        "locationConfidence": 99.644745
+      },
+      "duration": {
+        "startTimestamp": "2024-04-01T08:00:00.000Z",
+        "endTimestamp": "2024-04-01T12:00:00.000Z"
+      },
+      "centerLatE7": -368994787,
+      "centerLngE7": 1746260434,
+      "visitConfidence": 97,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  },
+  {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -368985123,
+        "longitudeE7": 1746289102,
+        "placeId": "ChIJE1MppuhNDW0RgKZb3v3hrzM",
+        "address": "4 Amokura Street, Blockhouse Bay, Auckland 0600, New Zealand",
+        "locationConfidence": 99.64883
+      },
+      "duration": {
+        "startTimestamp": "2024-04-02T09:30:00.000Z",
+        "endTimestamp": "2024-04-02T13:45:00.000Z"
+      },
+      "centerLatE7": -368985421,
+      "centerLngE7": 1746289031,
+      "visitConfidence": 99,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  },
+  {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -368977222,
+        "longitudeE7": 1746345621,
+        "placeId": "ChIJP7KJWuJNDW0RjCuehGjof0o",
+        "address": "1-7 Sherwood Avenue, Blockhouse Bay, Auckland 0600, New Zealand",
+        "locationConfidence": 99.644745
+      },
+      "duration": {
+        "startTimestamp": "2024-04-03T08:15:00.000Z",
+        "endTimestamp": "2024-04-03T11:30:00.000Z"
+      },
+      "centerLatE7": -368977435,
+      "centerLngE7": 1746345682,
+      "visitConfidence": 97,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  },
+  {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": -368970652,
+        "longitudeE7": 1745815498,
+        "placeId": "ChIJKx3cXCBMDW0RThsRLnRpwYQ",
+        "address": "18 Remuera Rd, Newmarket, Auckland 1050, New Zealand",
+        "locationConfidence": 99.64883
+      },
+      "duration": {
+        "startTimestamp": "2024-04-04T09:30:00.000Z",
+        "endTimestamp": "2024-04-04T13:45:00.000Z"
+      },
+      "centerLatE7": -368970800,
+      "centerLngE7": 1745815525,
+      "visitConfidence": 99,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }
+]
